@@ -1,0 +1,35 @@
+.body {
+    margin: 0;
+    padding: 0%;
+}
+.wrap {
+    margin: 16px;
+}
+.panel {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(56, 73, 43);
+    margin-bottom: 16px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: rgb(44, 19, 71);
+
+}
+.weird {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(36, 97, 77);
+    margin-bottom: 16px;
+    border-width: 7px;
+    border-left-style:dashed;
+    border-right-style:double;
+    border-top-style:dotted ;
+    border-bottom-style: double;
+}
+.card {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(59, 12, 12);
+    margin-bottom: 16px;
+    border: 10px solid rgb(7, 7, 46);
+}
